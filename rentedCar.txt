@@ -1,0 +1,33 @@
+#Username, Car Model, Start of Tenure, End of Tenure, Duration, Payment Status
+dennis, Perodua Bezza Advance, 2021-11-10, 2021-11-19, 9 days, 0:00:00, RM630 payed
+dennis, Mazda 3 GLS, 2021-12-10, 2021-12-15, 5 days, 0:00:00, RM140 payed
+dennis, Honda CR-V, 2021-12-10, 2021-12-21, 11 days, 0:00:00, RM770 payed
+kennath, Proton Iriz, 2021-11-10, 2021-12-10, 30 days, 0:00:00, RM2100 payed
+kennath, Perodua Bezza Advance, 2021-03-23, 2021-03-29, 6 days, 0:00:00, RM420 payed
+kennath, Perodua Myvi, 2021-05-26, 2021-05-29, 3 days, 0:00:00, RM210 payed
+kennath, Perodua Myvi, 2021-05-15, 2021-05-19, 4 days, 0:00:00, RM280 payed
+kennath, Perodua Myvi, 2021-05-12, 2021-05-14, 2 days, 0:00:00, RM140 payed
+dennis, Perodua Myvi, 2021-07-12, 2021-07-18, 6 days, 0:00:00, RM420 payed
+dennis, Perodua Axia, 2021-06-12, 2021-06-14, 2 days, 0:00:00, RM140 payed
+dennis, Perodua Axia, 2021-09-19, 2021-09-20, 1 day, 0:00:00, RM70 payed
+dennis, Perodua Myvi, 2021-09-12, 2021-10-19, 37 days, 0:00:00, RM2590 payed
+dennis, Proton Iriz, 2021-11-11, 2021-11-13, 2 days, 0:00:00, RM140 payed
+dennis, Proton X70, 2021-01-12, 2021-02-12, 31 days, 0:00:00, RM2170 payed
+dennis, Audi RS6 C7, 2021-02-12, 2021-03-12, 28 days, 0:00:00, payed RM500 deposit
+dennis, Audi RS6 C7, 2021-02-20, 2021-03-23, 31 days, 0:00:00, payed RM500 deposit
+dennis, Mazda 2, 2021-01-12, 2021-01-14, 2 days, 0:00:00, payed RM500 deposit
+dennis, Audi RS6 C7, 2021-08-12, 2021-08-19, 7 days, 0:00:00, payed RM500 deposit
+dennis, Mazda 2, 2021-09-09, 2021-09-13, 4 days, 0:00:00, RM350 payed
+dennis, Audi RS6 C7, 2022-02-12, 2022-02-14, 2 days, 0:00:00, RM140 payed
+dennis, Audi RS6 C7, 2021-09-09, 2021-09-14, 5 days, 0:00:00, RM350 payed
+kennath, Honda City, 2002-04-21, 2002-05-21, 30 days, 0:00:00, payed RM500 deposit
+kennath, Honda City, 2021-04-21, 2021-04-25, 4 days, 0:00:00, payed RM500 deposit
+kennath, Mazda 2, 2002-04-23, 2002-05-23, 30 days, 0:00:00, payed RM500 deposit
+kennath, Honda City, 1991-04-23, 1991-05-23, 30 days, 0:00:00, payed RM500 deposit
+kennath, Honda City, 1992-06-25, 1992-07-25, 30 days, 0:00:00, payed RM500 deposit
+kennath, Mazda 2, 1995-08-18, 1995-09-18, 31 days, 0:00:00, payed RM500 deposit
+kennath, Mitsubishi Lancer, 2002-07-21, 2002-08-21, 31 days, 0:00:00, payed RM500 deposit
+kennath, Mazda 2, 2005-06-26, 2005-07-26, 30 days, 0:00:00, payed RM500 deposit
+kennath, Mazda 2, 2007-06-06, 2007-07-06, 30 days, 0:00:00, payed RM500 deposit
+kennath, Mazda 2, 2003-03-03, 2003-04-03, 31 days, 0:00:00, payed RM500 deposit
+mannoj, Mazda 2, 2022-02-21, 2022-03-21, 28 days, 0:00:00, payed RM500 deposit

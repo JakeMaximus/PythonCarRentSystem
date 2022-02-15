@@ -1,0 +1,1 @@
+['username', 'car model', 'start of tenure', 'end of tenure,duration', 'deposit\n']['dennis', 'Mazda 3 GLS', '2021-12-10', '2021-12-15', '5 days', '0:00:00', 'RM500 deposit payed\n']['dennis', 'Perodua Bezza Advance', '2021-11-10', '2021-11-19', '9 days', '0:00:00', 'RM500 deposit payed\n']

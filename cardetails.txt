@@ -1,0 +1,12 @@
+Proton Persona, 1.6L, B, Sedan
+Honda CR-V, 2.0L, D, SUV
+Perodua Axia, 1.0L, B, Hatchback
+Perodua Myvi, 1.5L, B, Hatchback
+Proton X70, 2.0L, D, SUV
+Mazda 3 GLS, 2.0L, D, Hatchback
+Mitsubishi Lancer, 2.0L, D, Sedan
+Nissan Almera 2017, 1.5L, B, Sedan
+Nissan Almera 2020, 1.0L, B, Sedan
+Audi RS6 C7, 4.0L, D, Wagon
+Mazda 2, 1.5L, B, Sedan
+Honda City, 1.3L, B, Sedan
